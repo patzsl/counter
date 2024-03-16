@@ -6,3 +6,4 @@
 
 <button on:click={() => count++}>Increase</button>
 <button on:click={() => count--}>Decrease</button>
+<button on:click={() => count *= 2}>Double</button>
